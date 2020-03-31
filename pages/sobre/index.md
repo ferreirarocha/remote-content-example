@@ -1,0 +1,1 @@
+A página Sobre costuma ser uma das páginas mais visitadas do seu site. Uma sugestão é deixá-la simples e informativa, adicionando tópicos como: quem é o autor do projeto, qual a equipe que compõe o site, motivações para o projeto acontecer, meios de contato para falar com a equipe do site, etc.
