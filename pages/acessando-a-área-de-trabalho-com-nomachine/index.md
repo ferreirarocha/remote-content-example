@@ -1,5 +1,5 @@
 Então você necessita de ter acesso remoto a um computador que está na sua própria rede local ou privada?, prestar suporte, fornecer algum recurso, e muito mais ? , dependendo do caso o ssh, teamviewer, vnc e muitos outros podem ser a solução, porém hoje apresentamos a [NoMachine](https://www.nomachine.com/pt-pt) que fornece isso e muitos outros recursos para o seu ambiente.
-O processo de instalação é bem rápido, cobrindo uma gama enorme de plataformas entre eles Windows, Linux, MAC, Android, IOS, dispositovos ARM e Raspberry. O nomachine também oferece serviços e recursos para empresas que desejam implantar ou manter uma nuvem privada através de produtos como NoMachine Terminal Server e NoMachine Virtualization Server , [Saiba Mais](https://www.nomachine.com/pt-pt/enterprise)
+
 **https://www.nomachine.com/pt-pt/enterprise**
 Para baixar a aplicação acesse o link de download abaixo
 **https://www.nomachine.com/download**
