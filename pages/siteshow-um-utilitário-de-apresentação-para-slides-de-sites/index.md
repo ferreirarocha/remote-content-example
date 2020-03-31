@@ -1,7 +1,5 @@
 O SiteShow é um utilitário de apresentação para slides de sites.
-Bastando apenas definir o tempo de exibição da página individualmene, inserir um título e o link da página.
-As páginas desaparecem e desaparecem entre os slides, você pode alterar a cor de transição ou inseir uma logo nesse interim conforme desejado.
-
+4
 
 O SiteShow apresenta um pequeno menu que aparece automaticamente (desaparece), se você passar a mouse na página.
 O menu permite que você pause , inicie ou acesse diretamente um slide específico.
