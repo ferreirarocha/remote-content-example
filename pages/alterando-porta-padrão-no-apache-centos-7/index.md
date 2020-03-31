@@ -1,4 +1,4 @@
-Para alterar a porta padrão do apache no centOS abra o arquivo httpd.conf, e altere a parâmetro Listen como
+XXXXXXXXXXXXXXXXXXXXXXXXXXXxx
 
 ```
 nano /etc/httpd/conf/httpd.conf
