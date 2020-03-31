@@ -1,4 +1,4 @@
-O Etcher CLI, é uma ferramenta de linha de comando que visa fornecer todos os benefícios do aplicativo de desktop Etcher, de uma maneira que pode ser executada a partir de um terminal ou até mesmo usada em um script. Lembrando que o Etcher CLI é atualmente experimental, sendo assim devemos proceder com cautela e relatando problemas.
+O Etcher CLI, é uma ferramenta de linha de comando que visa fornecer todos os benefícios do aplicativo de desktop Etcher
 
 ### Instalando
 
